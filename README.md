@@ -8,6 +8,8 @@ This repository includes the second version of the `Exo-DMC` (Exoplanet Detectio
 
 The tool combines the information on the target stars with the instrument detection limits to estimate the probability of detection of a given synthetic planet population, ultimately generating detection probability maps. 
 
+Some bugs in the master branch related to outdated Python packages have been fixed.
+
 Requirements
 ------------
 
